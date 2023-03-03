@@ -1,0 +1,16 @@
+-
+ case_name: 用户登录
+ parameter:
+   username: D7KJW21
+   password: 789@Test
+ validata: 李振远
+
+-
+ case_name: 搜索车牌号
+ parameter:
+   car_plate_number: 贵D3009
+   fin_or_vin: LE42050421L257881
+
+ validata: 贵D3009
+
+
